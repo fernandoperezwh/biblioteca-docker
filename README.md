@@ -4,3 +4,5 @@ commandos:
  
  
  docker-compose run biblioteca_app python manage.py migrate    
+ 
+ Hola, saludos cordiales
